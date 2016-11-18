@@ -1,8 +1,8 @@
 {
-  "name": "webpack-library-starter",
-  "version": "0.1.3",
-  "description": "Produce universal library with webpack and es6",
-  "main": "lib/library.js",
+  "name": "alert-lib",
+  "version": "0.1",
+  "description": "Minimal alert lib",
+  "main": "lib/alert.js",
   "scripts": {
     "build": "webpack --mode=build",
     "dev": "webpack --progress --colors --watch --mode=dev",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/krasimir/webpack-library-starter.git"
+    "url": "https://github.com/vincent-vade/alert-min.git"
   },
   "keywords": [
     "webpack",
@@ -38,7 +38,7 @@
   "author": "Krasimir Tsonev",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/krasimir/webpack-library-starter/issues"
+    "url": "https://github.com/vincent-vade/alert-min/issues"
   },
-  "homepage": "https://github.com/krasimir/webpack-library-starter"
+  "homepage": "https://github.com/vincent-vade/alert-min"
 }
